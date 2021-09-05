@@ -1,2 +1,2 @@
 # Adaboost-Scratch-Implementation
-I implemented adaboost from Scratch using decision stumps for the requirements of the Machine Learning course of DSE master degree.
+I implemented adaboost from Scratch using decision stumps for the requirements of the Machine Learning course of DSE master degree. In this project, I used Forest-Cover-Type dataset published on kaggle to do multi-class prediction. All the details, code, presentation, interpretation, theoretical background etc. are in the Murat_Aydin_Adaboost_LATEX PRESENTATION.pdf document in this repository. Have fun!
